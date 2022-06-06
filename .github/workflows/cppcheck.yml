@@ -13,7 +13,7 @@ jobs:
           github_token: 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
           check_library:
           skip_preprocessor:
-          enable:
+          enable: all
           exclude_check:
           inconclusive:
           inline_suppression:
